@@ -11,7 +11,7 @@
 Analyze airport punctuality and schedule delays across multiple countries and produce a cleaned analytical dataset for Phase 4 modeling (airport-day unit of analysis).
 
 ## Data sources
-- EUROCONTROL Daily Punctuality – Airports: (add dataset link you used)
+- EUROCONTROL Daily Punctuality – Airports:
 - OurAirports airport metadata: https://ourairports.com/data/
 
 ## Repository structure
